@@ -1,4 +1,4 @@
-Basic python on below mentioned topic:
+ Exercise python code on below mentioned topic:
 1. [Cumulative Distribution Function](https://github.com/bksaini078/WebScience/blob/master/Cumulative%20Distribution%20function.ipynb)
 2. [Generative probabalistic model](https://github.com/bksaini078/WebScience/blob/master/Probabalistice%20Generative%20Model.ipynb)
 3. [Meme spreading in a graph using Adjacency matrix](https://github.com/bksaini078/WebScience/blob/master/MemeSpreadinginTsteps.ipynb)
